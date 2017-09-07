@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_my_contacts"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="My Contacts" />
+    <item
+        android:id="@+id/menu_feedback"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        android:title="Feedback &amp; Suggestions" />
+
+    <item
+        android:id="@+id/menu_contact_us"
+        android:icon="@drawable/ic_contact_phone_black_24dp"
+        android:title="Contact Us" />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_vpn_lock_black_24dp"
+        android:title="Logout" />
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LocMan</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="email">Email</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="address">Address</string>
+    <string name="google_maps_key">AIzaSyBTzxaUtGqK0pgNm6GbKr5_A9t1TxwH_oQ</string>
+    <string name="land_mark">Land Mark</string>
+    <string name="location_name">Location Name</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_closed">Close</string>
+    <string name="send">Send</string>
+</resources>
